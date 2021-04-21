@@ -1,0 +1,36 @@
+[
+    
+    {
+        "data":
+        {
+            "q":"Guardians Of The Galaxy Vol. 2",
+            "limit":3,
+            "type":"movie"
+        }
+    },
+    {
+        "data":
+        {
+            "q":"Avengers: Infinity War",
+            "limit":10,
+            "type":"movie"
+        }
+    },
+    {
+        "data":
+        {
+            "q":"Beat It",
+            "limit":2,
+            "type":"music"
+        }
+    },
+    {
+        "data":
+        {
+            "q":"Valeria",
+            "type":"movie",
+            "limit":4
+        }
+        
+    }
+]
